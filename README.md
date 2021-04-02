@@ -10,7 +10,7 @@ For more information on how to call our algorithms "ICESiss", "ICESisn", "ICESin
 refer to any the demo jupyter notebooks "Demo_clustering_results_Lawyers". 
 
 Also this algorithm can be run through the terminal by calling:
-  python ICESiss.py/SEFNACn --Name="name of dataset" --PreProcessing="z-m" --Run=1
+  python ICESiss.py/ICESisn.py --Name="name of dataset" --PreProcessing="z-m" --Run=1
 
   Note that the above method for calling our proposed algorithms requires the dataset to in .pickle format as it provided in data directory.  
 
