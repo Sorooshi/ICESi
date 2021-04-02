@@ -3,7 +3,7 @@
 
 The source codes, experimental test-beds and, the datasets of our paper titled 
 "Least-squares community extraction in feature-rich networks using similarity data"
-by [Soroosh Shalileh](https://www.hse.ru/en/org/persons/316426865) and, [Boris Mirkin](https://www.hse.ru/en/staff/bmirkin)
+by [Soroosh Shalileh](https://www.hse.ru/en/org/persons/316426865) and, [Boris Mirkin](https://www.hse.ru/en/staff/bmirkin), submitted to the journal PLoS One.
 
 
 For more information on how to call our algorithms "ICESiss", "ICESisn", "ICESins" or "ICESinn" one can 
