@@ -1,7 +1,7 @@
 # ICESi methods
 
 
-The source codes, experimental test-beds and, the datasets of our paper titled 
+The source codes, experimental test-beds and, the datasets of our paper entitled 
 "Least-squares community extraction in feature-rich networks using similarity data"
 by [Soroosh Shalileh](https://www.hse.ru/en/org/persons/316426865) and, [Boris Mirkin](https://www.hse.ru/en/staff/bmirkin), submitted to PLoS One journal.
 
